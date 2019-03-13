@@ -1,0 +1,15 @@
+{
+  "name": "d3-app",
+  "version": "1.0.0",
+  "description": "tester for ds-numerosity",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3-numerosity": "0.0.1",
+    "express": "^4.16.4"
+  }
+}
